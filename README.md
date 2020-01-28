@@ -45,3 +45,11 @@ When you click submit that will take you to the Environment Overview screen.
 
 ![Infrastructure Definition](/images/infra_def.jpg)
 
+Click submit when done. 
+
+9. Click back on your application name in the popcorn trail and then click on Workflows. Click Add Workflow.
+
+10. Give your workflow a name that starts with your Student ID. Select rolling deployment for your Deployment Type. Then for Environment, Service, and Infrastructure Definition be sure to pick the ones that start with your Student ID.
+
+![Workflow](/images/workflow.jpg)
+
