@@ -60,3 +60,9 @@ When you're done. Click submit.
 12. Since we specified "library/nginx" as our artifact source we now have to pick which version of Nginx we wish to deploy. For our first deploy select an older version 1.9.15 for example. (We will upgrade in the next lab to the current version.)
 
 ![Start New Deployment](/images/start_new.jpg)
+
+It's a good idea for test and training deployments to select Send Notification to Me Only to avoid spamming your coworkers with test deployments. Click Submit to kick off the deployment.
+
+13. Harness will switch to the deployment screen. Click on each box as it appears to see what information Harness provides. Click on the Rollout Deployment box to see the results from the command line on the delegate.
+
+![Live Deployment View](/images/deployment_view.jpg)
