@@ -91,3 +91,9 @@ It really can be that easy to upgrade a service!
 2. Click on Workflows and Add Workflow. Give this workflow a different name, but be sure to include your student ID.
 
 ![Cleanup Workflow](/images/clean_wf.jpg)
+
+Click submit.
+
+3. By default Harness put a Rollout Deployment step in for us, but we don't actually need that. Hover your mouse over the Rollout Deployment stage and click the X that appears next to that step to delete it. 
+
+![Remove Step](/images/remove_step.jpg)
