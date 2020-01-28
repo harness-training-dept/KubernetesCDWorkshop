@@ -77,3 +77,7 @@ Your instructor will also be displaying information from the actual cluster itse
 ![Deploy Latest](/images/deploy_latest.jpg) 
 
 Be sure to select the most recent version of Nginx and hit submit.
+
+2. Once the deploy starts click on the Rollout Deployment step and verify the yaml with the latest version of Nginx.
+
+![Check Upgrade](/images/check_upgrade.jpg)
