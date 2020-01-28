@@ -15,4 +15,6 @@
 
 1. Click on the Setup menu in the upper right hand corner of the Harness GUI.
 
-2. 
+2. Click on the Add Application button and fill out the information for your new application. Be sure to use your student ID in the name of your application so you can find it easily later.
+
+![Application Setup](/images/application.jpg)
