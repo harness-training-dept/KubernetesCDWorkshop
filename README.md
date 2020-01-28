@@ -97,3 +97,13 @@ Click submit.
 3. By default Harness put a Rollout Deployment step in for us, but we don't actually need that. Hover your mouse over the Rollout Deployment stage and click the X that appears next to that step to delete it. 
 
 ![Remove Step](/images/remove_step.jpg)
+
+4. Once that step is gone click on Add Step. This takes you to the Workflow step creation dialog. Click on Kubernetes and then the Delete action. 
+
+![Delete Step](/images/delete_step.jpg)
+
+Click next.
+
+5. Tell Harness what you want the Kubernetes delete command to delete. We will hardcode our namespace, but you could also use a variable here to Delete whatever namesapce was associated with the deployment. 
+
+![Configure Delete](/images/configure_delete.jpg)
