@@ -18,3 +18,9 @@
 2. Click on the Add Application button and fill out the information for your new application. Be sure to use your student ID in the name of your application so you can find it easily later.
 
 ![Application Setup](/images/application.jpg)
+
+3. Click submit and Harness will create your new application. Now we can setup the other parts of the deployment.
+
+4. Click on Services to add our first service to this application, then click on the Add Service button. Give your service a name that includes your student ID (as you did with the application) and set the Deployment Type to Kubernetes.
+
+![Add Service](/images/add_service.jpg)
