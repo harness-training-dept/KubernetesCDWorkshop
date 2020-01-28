@@ -53,3 +53,10 @@ Click submit when done.
 
 ![Workflow](/images/workflow.jpg)
 
+When you're done. Click submit.
+
+11. Now we are ready to do the actual deploy! Click on the Deploy button in the upper right corner of the screen. That will bring up the Start New Deployment dialog box. 
+
+12. Since we specified "library/nginx" as our artifact source we now have to pick which version of Nginx we wish to deploy. For our first deploy select an older version 1.9.15 for example. (We will upgrade in the next lab to the current version.)
+
+![Start New Deployment](/images/start_new.jpg)
