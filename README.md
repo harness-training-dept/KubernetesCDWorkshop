@@ -39,4 +39,9 @@ Click submit when done. We won't be changing any of the preconfigured yaml at th
 
 ![Environment](/images/environment.jpg)
 
+When you click submit that will take you to the Environment Overview screen. 
+
+8. Add an Infrastructure Definition. Give it a name that starts with your student ID. Select Kubernetes Cluster for your Cloud Provider Type, and set the deployment type to Kubernetes. Then you can select the Cloud Provider we have setup for this workshop. It will include the name of the city or state the workshop is held in. Finally for Namespace please put your Student ID so your instructor can see your deployment from the command line easily. 
+
+![Infrastructure Definition](/images/infra_def.jpg)
 
