@@ -81,3 +81,13 @@ Be sure to select the most recent version of Nginx and hit submit.
 2. Once the deploy starts click on the Rollout Deployment step and verify the yaml with the latest version of Nginx.
 
 ![Check Upgrade](/images/check_upgrade.jpg)
+
+It really can be that easy to upgrade a service!
+
+## Lab 4 - Cleanup the cluster
+
+1. Now we can run a deployment to delete our previous deployment and leave our training cluster neat and tidy! Go back to Setup screen in the Harness UI and select your application. We're going to create a new Workflow to delete our namespace and the pod inside it. 
+
+2. Click on Workflows and Add Workflow. Give this workflow a different name, but be sure to include your student ID.
+
+![Cleanup Workflow](/images/clean_wf.jpg)
