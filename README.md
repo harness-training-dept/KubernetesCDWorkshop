@@ -107,3 +107,11 @@ Click next.
 5. Tell Harness what you want the Kubernetes delete command to delete. We will hardcode our namespace, but you could also use a variable here to Delete whatever namesapce was associated with the deployment. 
 
 ![Configure Delete](/images/configure_delete.jpg)
+
+Click Submit.
+
+6. Now we can run our delete deployment. Click Deploy in the upper right hand corner. Once the Deploy starts click on the Delete task to watch the command line. You can also verify with the instructor's command line on the screen.
+
+![Final Delete](/images/final_delete.jpg)
+
+7. Pat yourself on the back! Labs complete! Job well done!
