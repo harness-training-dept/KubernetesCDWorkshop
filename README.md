@@ -66,3 +66,14 @@ It's a good idea for test and training deployments to select Send Notification t
 13. Harness will switch to the deployment screen. Click on each box as it appears to see what information Harness provides. Click on the Rollout Deployment box to see the results from the command line on the delegate.
 
 ![Live Deployment View](/images/deployment_view.jpg)
+
+Your instructor will also be displaying information from the actual cluster itself on the projector. Look up there to see your namespace appear once your deployment gets going. 
+
+
+## Lab 3 - Upgrade your Nginx deployment to the latest version
+
+1. Click on your application in the popcorn trail and go back to your Deployments. In there click on the Deploy button to deploy the latest version of Nginx.
+
+![Deploy Latest](/images/deploy_latest.jpg) 
+
+Be sure to select the most recent version of Nginx and hit submit.
