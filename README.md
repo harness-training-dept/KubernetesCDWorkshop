@@ -72,7 +72,7 @@ Your instructor will also be displaying information from the actual cluster itse
 
 ## Lab 3 - Upgrade your Nginx deployment to the latest version
 
-1. Click on your application in the popcorn trail and go back to your Deployments. In there click on the Deploy button to deploy the latest version of Nginx.
+1. Click on Setup and go back into your Application. Then go to Deployments and click on the Deployment you just ran. In there click on the Deploy button to deploy a newer version of Nginx.
 
 ![Deploy Latest](/images/deploy_latest.jpg) 
 
